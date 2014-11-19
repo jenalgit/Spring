@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- sliding menu-->
+	<dimen name="slidingmenu_offset">50.0dip</dimen>
+    <dimen name="shadow_width">15.0dip</dimen>
+
+	<dimen name="activity_horizontal_margin">16dp</dimen>
+	<dimen name="activity_vertical_margin">16dp</dimen>
+	<dimen name="text_size_small">14sp</dimen>
+	<dimen name="text_size_medium">16sp</dimen>
+	<dimen name="text_size_large">18sp</dimen>
+	<dimen name="base_action_bar_height">48.0dip</dimen>
+	<dimen name="base_action_bar_title_size">22.0sp</dimen>
+
+	<!-- chat block-->
+	<dimen name="base_scrollview_top_height">50.0dip</dimen>
+	<dimen name="tab_padding_top_bottom">15dp</dimen>
+	<dimen name="tab_padding_left_right">40dp</dimen>
+
+</resources>
